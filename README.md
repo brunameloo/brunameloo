@@ -4,11 +4,11 @@
 
 ### Let me introduce a little bit about my journey
 
-My aptitude for exacts since high school led me to the engineering college, where I got a bachelor's degree in chemical engineering. As an engineer, I had the pleasure of being part of the process engineering team of a german chemical company for three years.
+My aptitude for exacts since high school led me to the engineering college, where I got a bachelor's degree in chemical engineering :woman_student: :test_tube:. As an engineer, I had the pleasure of being part of the process engineering team of a german chemical company for three years :woman_scientist:.
 
 During this time, through intense process data analysis and dashboards creations, I was not only allowed to perfect my engineering skills in the chemical area. 
 
-I also discovered high abilities in data management, logical flow creation, and aesthetically pleasing reports interface development that connected to the end consumer of the information. 
+I also discovered high abilities in data management, logical flow creation, and aesthetically pleasing reports interface development that connected to the end consumer of the information :woman_technologist:. 
 
 As a daughter of two generations of local market owners, I have always learned about serving people by meeting their needs with my work. 
 
