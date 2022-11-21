@@ -12,11 +12,11 @@ I also discovered high abilities in data management, logical flow creation, and 
 
 As a daughter of two generations of local market owners, I have always learned about serving people by meeting their needs with my work. 
 
-The combination of these two massive experiences guided me to the UX/UI Design and Front-End Development fields. 
+The combination of these two massive experiences guided me to the <strong>UX/UI Design</strong> and <strong>Front-End Development</strong> fields. 
 
 I'm currently in a career transition to this tech area in which I have been finding my thing. My goal is to act with a human-centered approach, helping create features that will meet this generation's challenges and bring their dreams to life with my skills. 
 
-I am looking forward to the opportunities!
+<strong>I am looking forward to the opportunities!</strong>
 
 ### Main Technologies
 
